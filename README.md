@@ -13,3 +13,7 @@ for an array we should change the seed for each bool in the array i.e. by multip
 
 we then use the seed to generate a float that is in the range of the threshold. In my example i used numbers between 0 and 1 for both the random value and threshold.
 then we check what is larger, the threshold or the random value
+
+by lowering the threshold we slowly turn all tings from true to false while only storing the seed
+
+i dunno where this would be usefull but idc
